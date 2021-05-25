@@ -1,0 +1,68 @@
+ddd,UF,Regiao
+11,sao paulo,São_Paulo/Jundiaí/Itatiba/Itu/Bragança_Paulista_
+12,sao paulo,São_José_dos_Campos/Taubaté/Vale_do_Paraíba_
+13,sao paulo,Santos/São_Vicente/Baixada_Santista/Vale_do_Ribeira_
+14,sao paulo,Bauru/Marília/Jaú/Botucatu_
+15,sao paulo,Sorocaba/Itapetininga/Itapeva_
+16,sao paulo,Ribeirão_Preto/Franca/São_Carlos/Araraquara_
+17,sao paulo,São_José_do_Rio_Preto/Catanduva/Barretos/Votuporanga_
+18,sao paulo,Presidente_Prudente/Araçatuba/Birigui/Assis_
+19,sao paulo,Campinas/Piracicaba/Limeira/Americana_
+21,rio de janeiro,Rio_de_Janeiro_Região_Metropolitana_e_Teresópolis_
+22,rio de janeiro,Campos_dos_Goytacazes/Nova_Friburgo/Macaé/Cabo_Frio_
+24,rio de janeiro,Petrópolis/Volta_Redonda/Angra_dos_Reis_
+27,espirito santo,Vitória_Região_Metropolitana_Norte_e_Noroeste_do_Estado_do_Espírito_Santo._
+28,espirito santo,Mesorregião_Sul_do_Espírito_Santo_
+31,minas gerais,Belo_Horizonte_Região_Metropolitana_e_Vale_do_Aço_
+32,minas gerais,Juiz_de_Fora/São_João_del-Rei/Barbacena_
+33,minas gerais,Governador_Valadares/Teófilo_Otoni/Caratinga/Manhuaçu_
+34,minas gerais,Uberlândia_e_Triângulo_Mineiro_
+35,minas gerais,Poços_de_Caldas/Pouso_Alegre/Varginha_
+37,minas gerais,Divinópolis/Itaúna_
+38,minas gerais,Montes_Claros/Diamantina/Noroeste_de_Minas_
+41,parana,Curitiba_e_Região_Metropolitana_
+42,parana,Ponta_Grossa/Guarapuava_
+43,parana,Londrina/Apucarana_
+44,parana,Maringá/Campo_Mourão/Umuarama_
+45,parana,Cascavel/Foz_do_Iguaçu_
+46,parana,Francisco_Beltrão/Pato_Branco_
+47,santa catarina,Joinville/Blumenau/Itajaí/Balneário_Camboriú_
+48,santa catarina,Florianópolis/Criciúma/Tubarão/Santo_Amaro_da_Imperatriz_
+49,santa catarina,Chapecó/Lages/Caçador_
+51,rio grande do sul,Porto_Alegre_e_Região_Metropolitana/Santa_Cruz_do_Sul/Litoral_Norte_
+53,rio grande do sul,Pelotas/Rio_Grande_
+54,rio grande do sul,Caxias_do_Sul/Passo_Fundo_
+55,rio grande do sul,Santa_Maria/Uruguaiana/Santana_do_Livramento/Santo_Ângelo_
+61,distrito federal/goias,Abrangência_em_todo_o_Distrito_Federal_e_municípios_goianos_da_Região_Integrada_de_Desenvolvimento_do_Distrito_Federal_e_Entorno_
+62,goias,Goiânia_e_Região_Metropolitana/Anápolis/Niquelândia/Porangatu_
+63,tocantins,Abrangência_em_todo_o_estado_
+64,goias,Rio_Verde/Itumbiara/Caldas_Novas/Catalão_
+65,mato grosso,Cuiabá_e_Região_Metropolitana_
+66,mato grosso,Rondonópolis/Sinop_
+67,mato grosso_do_sul,Abrangência_em_todo_o_estado_
+68,acre,Abrangência_em_todo_o_estado_
+69,rondonia,Abrangência_em_todo_o_estado_
+71,bahia,Salvador_e_Região_Metropolitana_
+73,bahia,Itabuna/Ilhéus_
+74,bahia,Juazeiro/Irecê_
+75,bahia,Feira_de_Santana/Alagoinhas_
+77,bahia,Vitória_da_Conquista/Barreiras_
+79,sergipe,Abrangência_em_todo_o_estado_
+81,pernambuco,Recife_e_Região_Metropolitana/Caruaru_
+82,alagoas,Abrangência_em_todo_o_estado_
+83,paraiba,Abrangência_em_todo_o_estado_
+84,rio grande do norte,Abrangência_em_todo_o_estado_
+85,ceara,Fortaleza_e_Região_Metropolitana_
+86,piaui,Teresina_e_Região_Metropolitana/Parnaíba_
+87,pernambuco,Petrolina/Garanhuns/Serra_Talhada/Salgueiro_
+88,ceara,Juazeiro_do_Norte/Sobral_
+89,piaui,Picos/Floriano_
+91,para,Belém/Região_Metropolitana_
+92,amazonas,Manaus/Região_Metropolitana/Parintins_
+93,para,Santarém/Altamira_
+94,para,Marabá_
+95,roraima,Abrangência_em_todo_o_estado_
+96,amapa,Abrangência_em_todo_o_estado_
+97,amazonas,Abrangência_no_interior_do_estado_
+98,maranhao,São_Luís_e_Região_Metropolitana_
+99,maranhao,Imperatriz/Caxias/Codó
